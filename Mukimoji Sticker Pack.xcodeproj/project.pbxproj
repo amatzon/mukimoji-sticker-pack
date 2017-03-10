@@ -327,6 +327,7 @@
 				017039091E6F6F4F00F4431B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0170390B1E6F6F4F00F4431B /* Build configuration list for PBXNativeTarget "Mukimoji Sticker Pack" */ = {
 			isa = XCConfigurationList;
@@ -335,6 +336,7 @@
 				0170390D1E6F6F4F00F4431B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
